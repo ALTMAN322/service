@@ -1354,6 +1354,9 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s2Sajix9Qq {
+  background-image: url("../../../assets/images/bald-eagle-521492-340.webp");
+}
 .cid-s2K370zooc {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1409,44 +1412,6 @@ section.lazy-placeholder:after {
   .cid-s2K370zooc .price-figure {
     font-size: 4.25rem;
   }
-}
-.cid-s2K3dgRLLy {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  position: relative;
-  background-image: url("../../../assets/images/tree-832079-340.webp");
-}
-.cid-s2K3dgRLLy p {
-  color: #767676;
-}
-.cid-s2K3dgRLLy .card {
-  border-radius: 0px;
-  margin-bottom: -1px;
-}
-.cid-s2K3dgRLLy .card .card-header {
-  border-radius: 0px;
-  border: 0px;
-  padding: 0;
-}
-.cid-s2K3dgRLLy .card .card-header a.panel-title {
-  margin-bottom: 0;
-  margin-top: -1px;
-  font-weight: 500;
-  font-style: normal;
-  display: block;
-  text-decoration: none !important;
-  line-height: normal;
-}
-.cid-s2K3dgRLLy .card .card-header a.panel-title:focus {
-  text-decoration: none !important;
-}
-.cid-s2K3dgRLLy .card .card-header a.panel-title h4 {
-  border: 1px solid #dfdfdf;
-  padding: 1.3rem 2rem;
-  margin-bottom: 0;
-}
-.cid-s2K3dgRLLy .card .card-header a.panel-title h4 .sign {
-  padding-right: 1rem;
 }
 .cid-s2K3hR0ulW {
   padding-top: 90px;
